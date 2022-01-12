@@ -1,0 +1,15 @@
+.players_details{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+/* .attaker{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  } */
+/* .defender{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  } */
